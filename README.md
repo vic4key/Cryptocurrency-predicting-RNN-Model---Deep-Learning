@@ -4,6 +4,6 @@ Cryptocurrency-predicting using Recurrent Neural Networks
 ## Data Have been Downloaded Using Web Scrapping 
 ### Includes: Cleaning and PreProcessing of Time Series Data
 ## This is a Recurrent Neural Network(Best use of Time Series Data)
-#### I have Used the Last 60 Minutes of Time Series Data for Making the Prediction for Future 3 Minutes
+#### I have Used the Last 60 Minutes of Time Series Data for Making the Prediction for Future 3 Minutes.
 
 
